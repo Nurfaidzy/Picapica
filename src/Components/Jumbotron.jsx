@@ -1,7 +1,8 @@
 import React from "react";
 import Sipika from "./../Img/sipika.png";
 
-const Jumbotron = () => {
+const Jumbotron = (props) => {
+  console.log(props);
   return (
     <>
       <div className="flex justify-center">
