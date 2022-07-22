@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Picapica/static/css/main.49e15010.css",
-    "main.js": "/Picapica/static/js/main.b7b64d73.js",
+    "main.css": "/Picapica/static/css/main.2a7dab5d.css",
+    "main.js": "/Picapica/static/js/main.9ce9f556.js",
     "static/js/787.942c3e07.chunk.js": "/Picapica/static/js/787.942c3e07.chunk.js",
     "static/media/sipika.png": "/Picapica/static/media/sipika.df183e18fcfda7f08f9c.png",
     "static/media/pinguin.png": "/Picapica/static/media/pinguin.ebd0c14d35ffd2f2b90d.png",
     "static/media/ballpoke.png": "/Picapica/static/media/ballpoke.3379e6b6754b646f19ed.png",
     "index.html": "/Picapica/index.html",
-    "main.49e15010.css.map": "/Picapica/static/css/main.49e15010.css.map",
-    "main.b7b64d73.js.map": "/Picapica/static/js/main.b7b64d73.js.map",
+    "main.2a7dab5d.css.map": "/Picapica/static/css/main.2a7dab5d.css.map",
+    "main.9ce9f556.js.map": "/Picapica/static/js/main.9ce9f556.js.map",
     "787.942c3e07.chunk.js.map": "/Picapica/static/js/787.942c3e07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e15010.css",
-    "static/js/main.b7b64d73.js"
+    "static/css/main.2a7dab5d.css",
+    "static/js/main.9ce9f556.js"
   ]
 }
