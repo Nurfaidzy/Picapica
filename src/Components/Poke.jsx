@@ -45,8 +45,8 @@ const Poke = () => {
 
   return (
     <>
-      <div className="laptop:py-[20%] laptop:px-10 ">
-        <div className="bg-white rounded-xl  shadow-2xl">
+      <div className="laptop:py-[20%] laptop:pb-10 ">
+        <div className="bg-white rounded-xl  shadow-2xl pb-[10%]">
           <div className=" p-6 flex justify-center">
             <h1 className="font-bold laptop:text-6xl text-red-600 text-2xl">
               This List Of Pokemon

@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./Components/Footer";
 import Jumbotron from "./Components/Jumbotron";
 import Navbar from "./Components/Navbar";
 import Poke from "./Components/Poke";
@@ -10,6 +11,7 @@ function App() {
         <Navbar />
         <Jumbotron />
         <Poke />
+        <Footer />
       </div>
     </>
   );
